@@ -1,0 +1,1 @@
+body{box-sizing:border-box}.container{border:2px solid gray;display:flex;flex-wrap:wrap;height:500px;margin:100px auto;width:500px}.cell{height:25%;outline:1px solid gray;width:25%}.active{background-color:#000}
